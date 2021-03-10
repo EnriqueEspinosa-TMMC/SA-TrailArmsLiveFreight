@@ -1,1 +1,3 @@
-
+mean average precision (mAP@0.50) = 0.986111, or 98.61 % 
+for conf_thresh = 0.25, TP = 64, FP = 1, FN = 0, average IoU = 83.92 % 
+for conf_thresh = 0.25, precision = 0.98, recall = 1.00, F1-score = 0.99
